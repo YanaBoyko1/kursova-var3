@@ -1,0 +1,18 @@
+.graph-container {
+  padding: 20px;
+  text-align: center;
+}
+.controls {
+  margin: 20px 0;
+}
+.controls button {
+  margin: 0 5px;
+  padding: 10px 15px;
+}
+.current-node {
+  margin: 10px 0;
+}
+.current-stack {
+  margin: 20px 0;
+  font-weight: bold;
+}
