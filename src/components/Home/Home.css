@@ -1,0 +1,20 @@
+section {
+  text-align: center;
+  padding: 50px;
+}
+
+.sections {
+  display: flex;
+  justify-content: center;
+  margin-top: 200px;
+}
+
+.graph, .avl {
+  margin: 0 50px;
+}
+
+.start {
+  padding: 11px 20px;
+  font-size: 17px;
+  cursor: pointer;
+}
